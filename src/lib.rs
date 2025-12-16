@@ -1,11 +1,11 @@
-//! # simple_input
+//! # sim_put
 //! 
-//! `simple_input` is an attempt at simplifying some io utilities provided by std library. 
+//! `sim_put` is an attempt at simplifying some io utilities provided by std library. 
 //! 
 //! ## Example
 //! 
 //!  ```
-//! use simple_input::Input;
+//! use sim_put::Input;
 //! 
 //! fn main() {
 //!     let promptless_input: String = Input::input();
